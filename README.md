@@ -5,12 +5,12 @@ eeprommac
 
 
 for something else
-//   SCK - Pin 13
-//   SO  - Pin 12
-//   SI  - Pin 11
-//   CS  - Pin  8
-//   RST - Pin  4
+>  SCK - Pin 13 <br>
+  SO  - Pin 12<br>
+  SI  - Pin 11<br>
+  CS  - Pin  8<br>
+  RST - Pin  4
 
 
 DHT
-//  Pin 7
+>  Pin 7
